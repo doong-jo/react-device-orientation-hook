@@ -1,0 +1,6 @@
+@import "../variables.scss";
+@import "../typography.scss";
+
+.card-component {
+  filter:url(#shadow);
+}
