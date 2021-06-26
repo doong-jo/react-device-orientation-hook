@@ -13,6 +13,11 @@ It also features:
 - [Storybook](https://storybook.js.org/) to help you create and show off your components
 - [Jest](https://jestjs.io/) and [React Testing Library](https://github.com/testing-library/react-testing-library) enabling testing of the components
 
+## Spec References
+- [W3C](https://www.w3.org/TR/orientation-event/)
+- [Google Developers](https://developers.google.com/web/fundamentals/native-hardware/device-orientation)
+- [MDN ](https://developer.mozilla.org/en-US/docs/Web/API/Window/deviceorientation_event)
+
 
 ## Usage
 ```sh
