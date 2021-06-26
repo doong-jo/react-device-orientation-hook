@@ -1,3 +1,4 @@
-import TestComponent from "./TestComponent";
+import useDeviceOrientation from './useDeviceOrientation';
 
-export { TestComponent };
+export default useDeviceOrientation;
+export * from "./useDeviceOrientation";
