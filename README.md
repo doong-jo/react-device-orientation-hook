@@ -13,14 +13,14 @@ It also features:
 - [Storybook](https://storybook.js.org/) to help you create and show off your components
 - [Jest](https://jestjs.io/) and [React Testing Library](https://github.com/testing-library/react-testing-library) enabling testing of the components
 
-## Spec References
+## Device Orientation Web API Spec
 - [W3C](https://www.w3.org/TR/orientation-event/)
 - [Google Developers](https://developers.google.com/web/fundamentals/native-hardware/device-orientation)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/deviceorientation_event)
 
 ## Demo
 
-https://user-images.githubusercontent.com/22005861/123515799-e4ccc280-d6d3-11eb-9041-b1825b9e51f4.mp4
+<img src="https://user-images.githubusercontent.com/22005861/123515869-3d9c5b00-d6d4-11eb-8404-b1d148e7f365.gif" width="300" height="640" />
 
 
 ## Usage
