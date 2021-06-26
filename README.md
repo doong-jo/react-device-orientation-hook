@@ -1,6 +1,7 @@
 # react-device-orientation-hook
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![CodeQL](https://github.com/doong-jo/react-device-orientation-hook/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/doong-jo/react-device-orientation-hook/actions/workflows/codeql-analysis.yml)
 
 ## Demo
 
