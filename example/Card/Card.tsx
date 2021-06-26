@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./Card.scss";
-import useDeviceOrientation from '../useDeviceOrientation';
+import useDeviceOrientation from '../../src/useDeviceOrientation';
 
 const Card: React.FC = () => {
   const { transformStyle, resetPivotOrientation } = useDeviceOrientation();
