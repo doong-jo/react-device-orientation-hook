@@ -15,6 +15,9 @@ It also features:
 
 
 ## Usage
+```sh
+npm i react-device-orientation-hook
+```
 
 ```typescript
 import useDeviceOrientation from 'react-device-orientation-hook;
