@@ -16,11 +16,17 @@ It also features:
 ## Spec References
 - [W3C](https://www.w3.org/TR/orientation-event/)
 - [Google Developers](https://developers.google.com/web/fundamentals/native-hardware/device-orientation)
-- [MDN ](https://developer.mozilla.org/en-US/docs/Web/API/Window/deviceorientation_event)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/deviceorientation_event)
+
+## Demo
+
+https://user-images.githubusercontent.com/22005861/123515799-e4ccc280-d6d3-11eb-9041-b1825b9e51f4.mp4
 
 
 ## Usage
-```sh
+📌  [Device Orientation Event works only in HTTPS for security reasons.](https://w3c.github.io/deviceorientation/#security-and-privacy)
+
+```
 npm i react-device-orientation-hook
 ```
 
